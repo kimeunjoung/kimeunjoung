@@ -1,3 +1,3 @@
-#kimeunjoung
+kimeunjoung
 
-Hello and myname is Added
+Hello myname is kimeunjoung
